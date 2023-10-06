@@ -1,0 +1,26 @@
+.row {
+    display: flex;
+}
+
+.column {
+    flex: 33.33%;
+    padding: 5px;
+}
+
+.description {
+    text-align: center;
+}
+
+.position {
+    text-align: center;
+}
+
+.name {
+    text-align: center;
+}
+
+.image {
+    align-items: center;
+    width: 50%;
+    height: 50%;
+}

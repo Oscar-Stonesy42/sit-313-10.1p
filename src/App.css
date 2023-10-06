@@ -1,0 +1,94 @@
+.top-header {
+  background-color:lightgray;
+  font-size: 10px;
+}
+
+.left-text {
+  text-align: left;
+  display: inline-block;
+  margin-right:710px;
+}
+
+.right-text {
+  text-align: right;
+  display: inline-block;
+  margin-right:40px;
+}
+
+.image-header {
+  width:100%;
+}
+
+.image {
+  padding-left:300px;
+}
+
+.freelancer-header {
+  text-align: center;
+}
+
+.see-more {
+  margin-left:50%;
+}
+
+.Email-Section {
+  background-color: lightgray;
+}
+
+.text {
+  display: inline-block;
+  padding: 2px;
+}
+
+.entry-box {
+  display: inline-block;
+  margin-left: 40%;
+}
+
+.Submit-Button {
+  display: inline-block;
+  padding-left: 10px;
+}
+
+.Footer {
+  background-color:cadetblue;
+}
+
+.Dev-Footer {
+  display:inline-block;
+  background-color:cadetblue;
+}
+
+.Client-Footer {
+  display: inline-block;
+  background-color: cadetblue;
+  padding-left: 200px;
+}
+
+.Socials {
+  display: inline-block;
+  align-items: right;
+  padding-left: 200px;
+}
+
+.Social_Images {
+  width: 50px;
+  height: 50px
+}
+
+.DEVLink {
+  align-items: center;
+  padding-top:50px;
+  padding-left:550px;
+}
+
+.devlink_title {
+  margin-left: 100px;
+}
+
+.devlink_text {
+  display: inline-block;
+  text-align: center;
+  padding-left:10px;
+  padding-right:10px;
+}
